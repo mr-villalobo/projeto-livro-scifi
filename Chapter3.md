@@ -1,1 +1,5 @@
-# Capitulo 3
+# Capitulo 3 - Proto-ficção científica
+
+Os antecedentes da ficção científica podem ser traçados até um momento em que mitologia, religião, ou misticismo e história estavam intimamente entrelaçados e não havia ainda a ciência cartesiana tal como a conhecemos hoje e que foi e ainda é utilizado por autores de ficção científica ao compor seus enredos. História verdadeira, de Luciano de Samósata, e considerada a obra mais antiga que pode ser chamada de "proto-ficção científica",[18] sido escrita no século II d.C., que contém muitos temas que caracterizam a ficção científica moderna, como viagem a outros mundos, formas de vida extraterrestres, vida artificial e guerra interplanetárias. Apesar de ser considerada por alguns como o primeiro livro de ficção científica, ele foi escrito em um contexto onde a ciência moderna não existia, sendo assim realocado no grupo de obras precursoras.[19] Algumas histórias como o Conto do Cortador de Bambu, alguns contos de As Mil e Uma Noites,[20] do século X e o conto do Teólogo Autodidata, de Ibn al-Nafis, do século XIII também são obras precursoras.[21]
+
+From: https://pt.wikipedia.org/wiki/Fic%C3%A7%C3%A3o_cient%C3%ADfica
